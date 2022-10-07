@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 44068568}
   - component: {fileID: 44068567}
   m_Layer: 5
-  m_Name: Button (5)
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 110624640}
   - component: {fileID: 110624639}
   m_Layer: 5
-  m_Name: Button (4)
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -657,7 +657,7 @@ GameObject:
   - component: {fileID: 816219378}
   - component: {fileID: 816219377}
   m_Layer: 5
-  m_Name: Button (9)
+  m_Name: RestartButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -944,7 +944,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6981132, g: 0.20021357, b: 0.20021357, a: 1}
+  m_Color: {r: 0.41509432, g: 0.22869347, b: 0.22869347, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1026,7 +1026,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 1, b: 0.17073035, a: 0}
+  m_BackGroundColor: {r: 0.29277325, g: 0.6037736, b: 0.34643602, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1289,7 +1289,7 @@ GameObject:
   - component: {fileID: 1096134597}
   - component: {fileID: 1096134596}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1975,7 +1975,7 @@ GameObject:
   - component: {fileID: 1642966536}
   - component: {fileID: 1642966535}
   m_Layer: 5
-  m_Name: Button (8)
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2256,7 +2256,7 @@ GameObject:
   - component: {fileID: 1873618106}
   - component: {fileID: 1873618105}
   m_Layer: 5
-  m_Name: Button
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2402,7 +2402,7 @@ GameObject:
   - component: {fileID: 1923091882}
   - component: {fileID: 1923091881}
   m_Layer: 5
-  m_Name: Button (6)
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2818,7 +2818,7 @@ GameObject:
   - component: {fileID: 1968030042}
   - component: {fileID: 1968030041}
   m_Layer: 5
-  m_Name: Button (3)
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2965,7 +2965,7 @@ GameObject:
   - component: {fileID: 1988644723}
   - component: {fileID: 1988644727}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: GamePlayCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3092,7 +3092,7 @@ GameObject:
   - component: {fileID: 2023978065}
   - component: {fileID: 2023978064}
   m_Layer: 5
-  m_Name: Button (7)
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3238,7 +3238,7 @@ GameObject:
   - component: {fileID: 2026866183}
   - component: {fileID: 2026866182}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: ClickablePlayerButtons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3573,8 +3573,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4280164095
-  m_fontColor: {r: 1, g: 0.11698109, b: 0.11698109, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
